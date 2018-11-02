@@ -4,7 +4,7 @@
 
 # Etapas para instalação da aplicação
 
-# 1º composer install
+1º composer install
 
 # 2º Colocar as credenciais do BD Mysql no .env
 	
