@@ -8,7 +8,7 @@
 
 # 2º Colocar as credenciais do BD Mysql no .env
 	
-# DB_CONNECTION=mysql
+DB_CONNECTION=mysql
 # DB_HOST=127.0.0.1
 # DB_PORT=3306
 # DB_DATABASE=teste_rodrigo
